@@ -1,0 +1,32 @@
+_repo: The-secret-spring_69281
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Benoît, Pierre
+    alias: Benoit, Pierre
+    birthdate: 1886
+    deathdate: 1962
+    gutenberg_agent_id: '5457'
+    url: http://www.gutenberg.org/2009/agents/5457
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Pierre_Benoit_(novelist)
+    - https://fr.wikipedia.org/wiki/Pierre_Benoit
+description: ''
+gutenberg_issued: '2022-11-01'
+identifiers:
+  gutenberg: '69281'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/001204122
+pgterms:marc905: 20220909092556benot
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: 'United States: Dodd, Mead and company,1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The secret spring
+url: http://www.gutenberg.org/ebooks/69281
