@@ -1,5 +1,8 @@
 _repo: The-secret-spring_69281
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69281-h/images/secret_cover.jpg
 creator:
   author:
     agent_name: Benoît, Pierre
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Pierre_Benoit_(novelist)
     - https://fr.wikipedia.org/wiki/Pierre_Benoit
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69281#The-secret-spring
 gutenberg_issued: '2022-11-01'
 identifiers:
   gutenberg: '69281'
